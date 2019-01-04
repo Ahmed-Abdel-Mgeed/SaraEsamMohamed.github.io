@@ -1,0 +1,37 @@
+
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus ,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus ,
+.carousel-indicators .active ,
+.option-box .color-option ul li ,
+.option-box .gear-box
+{
+
+	background-color: #fcbad3
+}
+
+
+
+
+
+.option-box .color-option {
+	
+
+	border: 5px solid #fcbad3;
+
+}
+
+.test span ,.footer h3{
+
+	color: #fcbad3
+}
+
+
+.test .carousel-indicators li.active {
+	border: 2px solid #fcbad3;
+
+}
+

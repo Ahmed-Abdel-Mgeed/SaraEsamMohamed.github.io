@@ -1,0 +1,39 @@
+/* start default theme */
+
+/* بعد ما جبت كل اللى وى بض عملت ليهم grouping*/
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus ,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus ,
+.carousel-indicators .active ,
+.option-box .color-option ul li ,
+.option-box .gear-box
+{
+
+	background-color: #E41B17;
+}
+
+
+
+
+
+.option-box .color-option {
+	
+
+	border: 5px solid #E41B17;
+
+}
+
+.test span ,.footer h3{
+
+	color: #E41B17
+}
+
+
+.test .carousel-indicators li.active {
+	border: 2px solid #E41B17;
+
+}
+
